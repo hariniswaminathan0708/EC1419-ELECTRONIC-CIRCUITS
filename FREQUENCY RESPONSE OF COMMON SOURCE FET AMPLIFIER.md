@@ -4,11 +4,15 @@
 <img width="865" height="553" alt="image" src="https://github.com/user-attachments/assets/b73a0362-39e9-47e4-9650-dfcee3c5f689" />
 <img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/7b291257-af6c-47ce-b939-3631ea52bbf4" />
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
-<img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
-
 
 # Tabulation with readings
+![jj](https://github.com/user-attachments/assets/c31914da-4cdc-4df8-b9a1-f93dcff51ac7)
 
 ## Semilog plotted Graph
+![gg](https://github.com/user-attachments/assets/06b757a4-cc8f-4940-a7a1-c391b84a1151)
 
-<img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+## RESULT 
+The Common Source amplifier was constructed and the following results were observed.
+1) Gain of the amplifier = 3 dB
+2) Bandwidth of the amplifier = 99.3 Hz
+3) Gain - Bandwidth Product = 9.68 dB
