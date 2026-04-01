@@ -12,11 +12,6 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-
-## CIRCUIT DIAGRAM
-<img width="890" height="1600" alt="image" src="https://github.com/user-attachments/assets/42948e03-5105-4a25-bd40-982ba9d8c608" />
-
-
 ## Graph
 
 <img width="949" height="1600" alt="image" src="https://github.com/user-attachments/assets/378de1ae-ed17-4f1d-9373-8ab12040e2d5" />
