@@ -5,5 +5,7 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+![CC](https://github.com/user-attachments/assets/174ebfe7-5e04-472f-a120-213cc9f71cad)
 
-<img width="676" height="1280" alt="image" src="https://github.com/user-attachments/assets/0223360a-f821-4b2e-bb4b-201a469140fe" />
+## RESULT
+Thus the full wave rectifier with and without filter is simulated using tinker CAD and the wave forms are plotted.
