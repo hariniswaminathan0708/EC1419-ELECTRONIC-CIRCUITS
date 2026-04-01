@@ -3,12 +3,8 @@
 <img width="706" height="280" alt="image" src="https://github.com/user-attachments/assets/a946feda-fee6-4986-95a0-f647f30af0c1" />
 <img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
 
+## GRAPH
+![DD](https://github.com/user-attachments/assets/d548c03f-25e2-4c88-bba8-c02177e0fe76)
 
-## ATTACH THE CORRECT CIRCUIT
-![WhatsApp Image 2026-03-30 at 15 48 26](https://github.com/user-attachments/assets/2af5030b-14c4-4c3c-a36d-91a58caaba35)
-
-
-## GRAPHS
-![WhatsApp Image 2026-03-30 at 15 47 08](https://github.com/user-attachments/assets/91f8d77a-22c1-47f0-b7c6-43fb32cbc17e)
-
-
+# RESULT
+Thus the analysis of a malfunctioning rectifier was done and the faults were identified. The circuit was Troubleshooted to restore proper operation.
