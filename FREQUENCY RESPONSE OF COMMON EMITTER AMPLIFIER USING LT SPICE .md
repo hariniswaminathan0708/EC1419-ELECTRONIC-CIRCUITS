@@ -13,11 +13,11 @@
 
 
 ## CIRCUIT DIAGRAM
-<img width="1256" height="1280" alt="image" src="https://github.com/user-attachments/assets/25943019-b4b5-44d8-969f-a02c72b3f354" />
+![ll](https://github.com/user-attachments/assets/a50fe665-455f-4387-8f1c-b1f44fef5290)
 
 
 ## MODEL GRAPH
-<img width="811" height="1280" alt="image" src="https://github.com/user-attachments/assets/e278b013-bc76-4c23-8fc6-047b78b8f85a" />
+![aa](https://github.com/user-attachments/assets/1a568c83-d1aa-478d-b2a5-44dfdaa794d5)
 
 
 ## Calculation
